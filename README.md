@@ -11,11 +11,13 @@ You can find my devblog [here](https://prastoin.netlify.app/) 🚧
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [XState](https://xstate.js.org/docs/)
+- [React](https://fr.reactjs.org/)
+- [AdonisJS](https://adonisjs.com/)
 
 ### Interests :eyes: :
 
 - [React Native](https://reactnative.dev/)
-- [AdonisJS](https://adonisjs.com/)
+- [Vue3 composition API](https://vuejs.org/guide/extras/composition-api-faq.html)
 - [Temporal](https://temporal.io/)
 - [Stately](https://stately.ai/viz)
 - [@xstate/test](https://xstate.js.org/docs/packages/xstate-test/)
