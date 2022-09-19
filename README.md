@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Web developper from the south of France 🫒  
 And a [42](https://42.fr/en/homepage/) student at 42Paris  
-You can find my devblog [here](https://prastoin.netlify.app/) 🚧
+You can find my devblog [here](https://paul.rastoin.dev) 🚧
 
 ### Core Stack:
 
