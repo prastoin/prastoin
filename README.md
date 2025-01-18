@@ -3,7 +3,6 @@
 ![banner (1)](https://user-images.githubusercontent.com/45004772/190092120-97203bd9-b28d-46ce-86bc-5019bb697a60.png)
 
 I'm a Full-Stack Web developper from the south of France 🫒  
-And a [42](https://42.fr/en/homepage/) student at 42Paris  
 You can find my devblog [here](https://paul.rastoin.dev) 🚧
 
 ### Core Stack:
